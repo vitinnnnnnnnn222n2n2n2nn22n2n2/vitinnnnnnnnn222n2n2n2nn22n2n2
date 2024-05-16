@@ -1,16 +1,16 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🏺
+meu nome e vitor felipe alberguine
 
-<!--
-**vitinnnnnnnnn222n2n2n2nn22n2n2/vitinnnnnnnnn222n2n2n2nn22n2n2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-estou estudando o [ALURA] (https:\\www.alura.com.br)
+-estou desenvolvendo na linguagem javascript
+-utilizo esse espaço para organizar meus projetos
 
-Here are some ideas to get you started:
+### voce pode entrar em contrato comigo👤
+vitorffalberguine@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@vitor
+
+![](https://media1.tenor.com/m/pfhG7TDF5-EAAAAC/metacarlton.gif)
+
+
+<!
